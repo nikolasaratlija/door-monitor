@@ -13,4 +13,3 @@ def send_motion_data():
 
 def send_alert_data():
     send_data('1')
-

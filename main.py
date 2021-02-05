@@ -29,4 +29,5 @@ def handle_countdown_completed():
     """ Sends a push-notification and sends data to ThingSpeak """
     print('The timer has ended')
 
+
 motion_sensor_loop()
